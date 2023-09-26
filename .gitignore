@@ -1,0 +1,3 @@
+__pycache__/
+*.json
+openai_api_keys.json
